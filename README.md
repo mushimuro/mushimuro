@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yoonho Park!
 
-🎓 Computer Science Major / Data Science Certificate
+**🎓 Computer Science Major / Data Science Certificate**
 University of Wisconsin–Madison (Graduating May 2026) 
 
 ---
