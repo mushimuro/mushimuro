@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Yoonho Park!
 
-<!--
-**mushimuro/mushimuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Major / Data Science Certificate
+University of Wisconsin–Madison (Graduating May 2026) 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 Passionnate About
+
+- Artificial Intelligence (AI)
+- Software Development
+- Data Analysis
+
+---
+
+## 💻 Technical Skills
+
+### Programming Languages  
+Java, Python, JavaScript
+
+### Backend Frameworks  
+Spring Boot, Django, FastAPI
+
+### Databases  
+MySQL, Redis
+
+### Cloud & DevOps  
+AWS, Docker, Kubernetes
+
+### AI & ML  
+PyTorch
+
+### Tools & Version Control  
+Git, GitHub, GitLab
+
+---
+
+## 📫 Contact
+
+- 📧 Email: pyh051920@gmail.com  
+- 🐙 GitHub: [@mushimuro](https://github.com/mushimuro)
+
