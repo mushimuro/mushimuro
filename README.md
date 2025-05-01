@@ -31,8 +31,8 @@ AWS, Docker, Kubernetes
 ### AI & ML  
 PyTorch
 
-### Tools & Version Control  
-Git, GitHub, GitLab
+### Key Courses
+Programming III, Numerical Methods, Theory of Computing, Artificl Intelligence, Machine Organization, Discrete Mathematics
 
 ---
 
