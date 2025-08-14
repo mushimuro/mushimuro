@@ -6,6 +6,12 @@ University of Wisconsin–Madison (Graduating May 2026)
 
 ---
 
+## 📜 Certification
+- AWS Certified Cloud Practitioner
+  - verification number : 8cca8f72800e41949c5953a289aa889e
+
+---
+
 ## 🧭 Passionnate About
 
 - Artificial Intelligence (AI)
